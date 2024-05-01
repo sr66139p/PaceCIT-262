@@ -1,0 +1,1 @@
+"{person} looked through my browser history and looked {emotional state} when they asked me why it's full of {plural noun}"
