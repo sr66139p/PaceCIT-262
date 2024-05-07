@@ -1,1 +1,8 @@
-"{person} looked through my browser history and looked {emotional state} when they asked me why it's full of {plural noun}"
+{person} looked through my browser history and looked {emotional state} when they asked me why it's full of {plural noun}.
+{person} ate so much {food} that they turned {color}.
+I love watching {sport}, not because of {athlete}, but because of {disaster}.
+I like {programming language} because it makes me feel {emotion} and because I'm {occupation}.
+My {academic subject} professor assigned {dangerous activity} for extra credit, and I'll probably do it because I'm a(n) {astrological sign}.
+My {family member} has heterochromia. One of their eyes is {color} and the other one is {other color}.
+Some people claim Winston Churchill said "{cheesy inspirational quote}" in {year}, but it was actually said by {trashy celebrity}.
+I hate {university}'s curriculum. Why on Earth do I need to take a class in {ing verb} for my degree in {academic degree}.
